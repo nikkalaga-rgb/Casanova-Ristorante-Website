@@ -1,4 +1,12 @@
 # Casanova-Ristorante-Website
+## Live Website
+
+[View the Casanova Ristorante website](ADD-YOUR-LIVE-WEBSITE-LINK-HERE)
+
+This custom-designed website for Casanova Ristorante provides a modern, elegant, and user-friendly digital experience that reflects the restaurant’s authentic Italian cuisine and intimate, candlelit atmosphere. The site features responsive navigation, online ordering, table reservations, a complete digital menu, happy-hour information, gift-card access, location and contact details, Google Maps integration, social media links, and dedicated sections highlighting the restaurant’s cuisine, story, atmosphere, and gallery.
+
+The design uses a sophisticated color palette of burgundy, cream, charcoal, and gold, paired with elegant typography and high-quality restaurant photography. Responsive layouts, mobile navigation, interactive animations, and fixed mobile reservation and ordering buttons create a consistent experience across desktop, tablet, and mobile devices. The website was developed using custom HTML, CSS, and JavaScript and connected to Casanova’s existing Toast ordering, gift-card, reservation, Instagram, and Google Maps services.
+
 Project Overview
 
 This custom-designed website for Casanova Ristorante provides a modern, elegant, and user-friendly digital experience inspired by the restaurant’s authentic Italian cuisine and intimate atmosphere in Dana Point, California.
