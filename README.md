@@ -16,6 +16,7 @@ The goal was to create a refined online presence that makes it easy for customer
 The website was designed and developed using custom HTML, CSS, and JavaScript, with a fully responsive layout for desktop, tablet, and mobile devices.
 
 **My Role**
+
 Website design
 Front-end development
 Responsive layout development
@@ -50,7 +51,9 @@ Google Maps
 Toast Online Ordering
 Git
 GitHub
+
 **Development Process**
+
 Reviewed Casanova Ristorante’s existing website, menu, services, and brand identity.
 Identified opportunities to improve navigation, mobile usability, visual consistency, and access to important customer actions.
 Organized the website into clear sections for featured dishes, the full menu, happy hour, restaurant story, reservations, ordering, gallery, and location information.
@@ -123,6 +126,7 @@ Strong reservation and ordering calls to action
 The final experience feels sophisticated and romantic while remaining welcoming, practical, and easy to navigate.
 
 **Future Improvements**
+
 Complete searchable digital menu
 Menu filtering by category
 Dietary and allergen labels
