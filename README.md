@@ -1,3 +1,8 @@
+<img width="1920" height="925" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/f0bd8818-663a-4665-b84c-7f0af760c4d4" />
+<img width="1920" height="900" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/2a1011c1-641f-4316-83bf-d3121f7da9b1" />
+<img width="1920" height="920" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/cff65cc5-7362-4799-abc0-e1b966883037" />
+<img width="1920" height="919" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/701e53ec-bffe-4a13-b68e-be931a979a37" />
+<img width="1920" height="923" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/de888cf1-962a-4a8d-ac69-b8ca6d566e47" />
 # Casanova-Ristorante-Website
 ## Live Website
 
@@ -148,7 +153,12 @@ Designed and developed by Nikos Kalagasidis.
 
 ### Restaurant Story
 
-![Casanova Story](screenshots/casanova-story.png)
+![Casanova Story](screenshots/casa<img width="1920" height="925" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/445f1798-c81d-4ece-ba8f-e5df805916e0" />
+<img width="1920" height="900" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/867e125f-0009-43bd-b91e-b7a6bffe62b4" />
+<img width="1920" height="920" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/c743cb25-163b-4b7b-b5f3-2728b65f0cf3" />
+<img width="1920" height="919" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/4c701a75-267f-4476-930d-0fe4a751d3ab" />
+<img width="1920" height="923" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/668d536f-8fcd-4036-98b5-2e8abfd6815b" />
+nova-story.png)
 
 ### Full Menu
 
