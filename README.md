@@ -1,8 +1,7 @@
 # Casanova-Ristorante-Website
 
 ## Live Website
-
-[View the Casanova Ristorante website](ADD-YOUR-LIVE-WEBSITE-LINK-HERE)
+[View the Casanova Ristorante website](https://nikkalaga-rgb.github.io/Casanova-Ristorante-Website/)
 
 This custom-designed website for Casanova Ristorante provides a modern, elegant, and user-friendly digital experience that reflects the restaurant’s authentic Italian cuisine and intimate, candlelit atmosphere. The site features responsive navigation, online ordering, table reservations, a complete digital menu, happy-hour information, gift-card access, location and contact details, Google Maps integration, social media links, and dedicated sections highlighting the restaurant’s cuisine, story, atmosphere, and gallery.
 
