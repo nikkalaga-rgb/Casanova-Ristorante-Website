@@ -7,7 +7,7 @@ This custom-designed website for Casanova Ristorante provides a modern, elegant,
 
 The design uses a sophisticated color palette of burgundy, cream, charcoal, and gold, paired with elegant typography and high-quality restaurant photography. Responsive layouts, mobile navigation, interactive animations, and fixed mobile reservation and ordering buttons create a consistent experience across desktop, tablet, and mobile devices. The website was developed using custom HTML, CSS, and JavaScript and connected to Casanova’s existing Toast ordering, gift-card, reservation, Instagram, and Google Maps services.
 
-Project Overview
+**Project Overview**
 
 This custom-designed website for Casanova Ristorante provides a modern, elegant, and user-friendly digital experience inspired by the restaurant’s authentic Italian cuisine and intimate atmosphere in Dana Point, California.
 
@@ -15,7 +15,7 @@ The goal was to create a refined online presence that makes it easy for customer
 
 The website was designed and developed using custom HTML, CSS, and JavaScript, with a fully responsive layout for desktop, tablet, and mobile devices.
 
-My Role
+**My Role**
 Website design
 Front-end development
 Responsive layout development
@@ -50,7 +50,7 @@ Google Maps
 Toast Online Ordering
 Git
 GitHub
-Development Process
+**Development Process**
 Reviewed Casanova Ristorante’s existing website, menu, services, and brand identity.
 Identified opportunities to improve navigation, mobile usability, visual consistency, and access to important customer actions.
 Organized the website into clear sections for featured dishes, the full menu, happy hour, restaurant story, reservations, ordering, gallery, and location information.
@@ -62,21 +62,21 @@ Tested the design across desktop, tablet, and mobile screen sizes.
 Challenges and Solutions
 Restaurant Brand Identity
 
-Challenge:
+**Challenge:**
 The website needed to feel modern and professional while preserving Casanova’s traditional Italian character and intimate dining atmosphere.
 
-Solution:
+**Solution:**
 I created a refined visual system using burgundy, cream, charcoal, and gold colors. Elegant typography, candlelit restaurant photography, subtle borders, and carefully spaced layouts helped communicate a premium but welcoming dining experience.
 
-Responsive Design
+**Responsive Design**
 
-Challenge:
+**Challenge:**
 The large images, detailed content, navigation links, and customer actions needed to remain easy to use on smaller screens.
 
-Solution:
+**Solution:**
 I developed responsive grids, flexible layouts, mobile-specific navigation, scalable typography, and media queries. I also added fixed mobile buttons so customers can reserve a table or order online from anywhere on the page.
 
-Customer Action Accessibility
+**Customer Action Accessibility**
 
 Challenge:
 Reservations, online ordering, gift cards, directions, and contact information were handled through different external services.
@@ -84,7 +84,7 @@ Reservations, online ordering, gift cards, directions, and contact information w
 Solution:
 I connected each service through clear and consistent calls to action placed throughout the website. Customers can quickly reserve a table, order through Toast, purchase a gift card, call the restaurant, or open directions in Google Maps.
 
-Menu Organization
+**Menu Organization**
 
 Challenge:
 Casanova offers multiple menu categories, including antipasti, pasta, main courses, cocktails, wine, desserts, and happy-hour selections.
@@ -108,7 +108,7 @@ The website uses multiple high-quality restaurant and food photographs, which ca
 Solution:
 I used responsive image presentation, lazy loading for the embedded map, efficient CSS layouts, and lightweight JavaScript interactions to maintain a smooth browsing experience.
 
-Design Direction
+**Design Direction**
 
 The website’s design reflects Casanova’s identity through:
 
@@ -122,11 +122,7 @@ Strong reservation and ordering calls to action
 
 The final experience feels sophisticated and romantic while remaining welcoming, practical, and easy to navigate.
 
-Project Screenshots
-
-Add desktop and mobile screenshots of the completed website here.
-
-Future Improvements
+**Future Improvements**
 Complete searchable digital menu
 Menu filtering by category
 Dietary and allergen labels
@@ -137,7 +133,7 @@ Additional performance optimization
 Content management integration for easier menu updates
 Contact
 
-Designed and developed by Nikos Kalagasidis.
+**Designed and developed by Nikos Kalagasidis.**
 
 <img width="1920" height="925" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/f0bd8818-663a-4665-b84c-7f0af760c4d4" />
 <img width="1920" height="900" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/2a1011c1-641f-4316-83bf-d3121f7da9b1" />
